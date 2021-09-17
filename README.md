@@ -15,6 +15,6 @@ Clone Repository này về máy.<br>
     Mặc định đang là cùng màu với các phần thân còn lại của Snake.<br>
     Mong muốn: Khác màu Snake và Food (thức ăn) và To hơn phần thân (120%)<br>
    
-<h4>Đây là code để hiểu mạch logic, nên đồ họa sẽ xấu, sau khi xong 3 task trên, có thể sử dụng <a href = "https://www.pygame.org/docs/ref/image.html">Image <module></a> để 
+<h4>Đây là code để hiểu mạch logic, nên đồ họa sẽ xấu, sau khi xong 3 task trên, có thể sử dụng <a href = "https://www.pygame.org/docs/ref/image.html">Image &ltmodule&gt</a> để 
 Import file ảnh (tự thiết kế) vào sẽ làm đồ họa trở nên đẹp hơn</h4> 
 
